@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>🌱 I’m currently learning Deep Learning and Neural Networks
+🔭 An AI Enthusiast <br>🌱 Currently learning Deep Learning and Neural Networks
 
 
 ## 🌐 Socials:
